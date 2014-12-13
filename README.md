@@ -54,4 +54,4 @@ Credits
 
 Video of mine showing how it works: https://www.youtube.com/watch?v=UYnZRNuasd4
 
-Blog post from Stealthgyro: http://stealthgyro.blogspot.it/2014/08/titanfall-higher-framerate-than-your.html (thanks for his ".bat")
+Blog post from Stealthgyro: http://stealthgyro.blogspot.it/2014/08/titanfall-higher-framerate-than-your.html (thanks for his ".bat" file method).
