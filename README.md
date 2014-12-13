@@ -11,7 +11,7 @@ Trick the game so it detects a higher refresh rate monitor. Note: Titanfall supp
 How To Do It
 ============
 
-AMD Users Method #1:
+**AMD Users Method #1:**
 
   1.  Download Custom Resolution Utility (link: http://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU);
   2.  Add a new "Detailed resolution" with the desired refresh rate (e.g. 1920x1080 144Hz);
@@ -22,7 +22,7 @@ AMD Users Method #1:
   7.  Launch the .bat file and wait about 10 seconds (you should see a black screen caused by improper refresh rate);
   8.  Now Titanfall is running at higher FPS than your monitor refresh rate.
 
-AMD Users Method #2:
+**AMD Users Method #2:**
 
   1.  Open AMD Catalyst Control Center (AMD CCC);
   2.  Disable any kind of auto-settings identifier, for example "Extended Display Identification Data (EDID)" and choose the highest desired "Maximum Refresh Rate" (example: http://i.imgur.com/FoKbOQg.png);
@@ -33,7 +33,7 @@ AMD Users Method #2:
   7.  Launch the .bat file and wait about 10 seconds (you should see a black screen caused by improper refresh rate);
   8.  Now Titanfall is running at higher FPS than your monitor refresh rate.
 
-nVidia Users (credit: http://stealthgyro.blogspot.it/2014/08/titanfall-higher-framerate-than-your.html):
+**nVidia Users (credit: http://stealthgyro.blogspot.it/2014/08/titanfall-higher-framerate-than-your.html):**
 
   1.  Launch the NVIDIA Control Panel (Right click your desktop > NVIDIA Control Panel);
   2.  Under the "Display" section you should see "Change resolution";
